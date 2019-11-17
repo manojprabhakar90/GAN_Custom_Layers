@@ -1,6 +1,6 @@
 # GAN_Custom_Layers
 
-The code was used to Kaggle Bronze Medal. 
+The code was used for getting Kaggle Bronze Medal. 
 
 The main idea behind doing this was to see, rather than using DCGAN/ACGAN, can custom layers GAN be used to generate artificial/synthetic images. 
 
